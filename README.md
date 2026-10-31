@@ -128,4 +128,4 @@ Special thanks to the open-source community for valuable ML libraries and resour
 
 ---
 
-*Built with ❤️ for machine learning practitioners and data scientists*
+*Built with ❤️ for machine learning practitioners and data scientists
