@@ -1,4 +1,4 @@
-# DS_pro: End-to-End Machine Learning Project.
+# DS_pro: End-to-End Machine Learning Project
 
 ## Project Overview
 
